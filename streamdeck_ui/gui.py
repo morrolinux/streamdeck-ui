@@ -59,7 +59,7 @@ last_image_dir = ""
 
 """Define buttons behaviour here"""
 toggle_buttons = []
-mutex_buttons = ["PP", "SX", "DX", "HDMI", "DESK"]
+mutex_buttons = ["PP", "SX", "DX", "HDMI", "DESK", "ANN"]
 status_buttons = {"REC": "obs-ffmpeg-mux"}
 
 
