@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=GUI for StreamDeck
+Exec=/home/morro/streamdeck-ui/run.sh
+GenericName=Streamdeck UI
+Name=Streamdeck UI
+Icon=/home/morro/streamdeck-ui/art/logo.png
+Type=Application
