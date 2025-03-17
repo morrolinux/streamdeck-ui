@@ -1,8 +1,7 @@
 #!/bin/bash
 
 source ~/.bashrc
-conda
 cd ~/streamdeck-ui 
-sleep 5
 conda activate streamdeck
+xhost si:localuser:$USER
 poetry run streamdeck &
